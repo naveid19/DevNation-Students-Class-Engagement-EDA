@@ -11,4 +11,4 @@ DevNation investors are looking to understand how students are engaging in the p
 * How does average time in class change with the date
 * How does attendance changes over time
 * Who are the worst-performing students, in terms of attendance and the total time spent
-* Summarize statistical measures associated with time spend in the class
+* Summarize statistical measures associated with time spend in the class, with boxplot
